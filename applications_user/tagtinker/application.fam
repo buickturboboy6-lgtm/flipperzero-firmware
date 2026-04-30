@@ -1,0 +1,7 @@
+App(
+    appid="tagtinker",
+    name="TagTinker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="tagtinker_app",
+    stack_size=2048,
+)
